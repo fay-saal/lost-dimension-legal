@@ -4,7 +4,7 @@ Effective date: October 15, 2026
 
 Lost Dimension ("the Bot", "we", "us") is a Discord bot developed and operated by Faysal Ahmed. This policy explains what information the Bot uses, why, and what choices you have. By adding or using the Bot you agree to this policy.
 
-Contact and support: https://discord.gg/YOUR_SUPPORT_SERVER_INVITE
+Contact and support:  https://discord.gg/9W6W7KX4vC
 
 ## 1. Information the Bot uses
 
@@ -85,4 +85,4 @@ We may update this policy. The effective date at the top shows the latest versio
 ## 10. Contact
 
 Developer: Faysal Ahmed
-Support server: https://discord.gg/YOUR_SUPPORT_SERVER_INVITE
+Support server:  https://discord.gg/9W6W7KX4vC
