@@ -4,7 +4,7 @@ Effective date: October 15, 2026
 
 These terms apply to your use of Lost Dimension ("the Bot"), a Discord bot developed and operated by Faysal Ahmed ("we", "us"). By adding or using the Bot you agree to these terms and to our Privacy Policy. If you do not agree, do not use the Bot.
 
-Contact and support: https://discord.gg/YOUR_SUPPORT_SERVER_INVITE
+Contact and support:  https://discord.gg/9W6W7KX4vC
 
 ## 1. Using the Bot
 
@@ -62,4 +62,4 @@ These terms are governed by the laws of Bangladesh.
 ## 11. Contact
 
 Developer: Faysal Ahmed
-Support server: https://discord.gg/YOUR_SUPPORT_SERVER_INVITE
+Support server:  https://discord.gg/9W6W7KX4vC
